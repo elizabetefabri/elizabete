@@ -1,0 +1,46 @@
+.container_title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  max-width: 48rem;
+  padding: 0 3rem;
+  margin: 1.5rem auto 0 auto;
+}
+.githubButton {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration: none;
+  text-transform: uppercase;
+  outline: 0;
+  border: 0;
+}
+
+.githubButton a {
+  text-decoration: none;
+  color: #191818;
+}
+
+.githubButton a:hover {
+  color: #ff9999;
+}
+
+.githubButton:before {
+  background-color: rgba(185, 185, 185, 0.29);
+  content: "";
+  display: inline-block;
+  height: 1px;
+  margin-right: 10px;
+  transition: all 0.42s cubic-bezier(.25,.8,.25,1);
+  width: 0;
+}
+
+.githubButton:hover:before {
+  background-color: #D9D9D9;
+  width: 3rem;
+}

@@ -1,0 +1,25 @@
+<app-divisor></app-divisor>
+
+<header>
+  <div class="container" >
+    <!-- inicio logo -->
+    <div class="logo">* liza *</div>
+    <div class="menu" (click)="toggleMenu()">
+      <div class="menuMobile" (click)="toggleMenu()">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <!-- inicio menu -->
+      <nav>
+        <ul id="ul">
+          <li><a [routerLink]="['']">Início</a></li>
+          <!-- <li><a [routerLink]="['/sobre']">sobre</a></li>
+          <li><a [routerLink]="['/portfolio']">Portifólio</a></li>
+          <li><a [routerLink]="['/contato']">Contato</a></li> -->
+        </ul>
+      </nav>
+      <!-- fim menu -->
+    </div>
+  </div>
+</header>

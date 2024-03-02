@@ -1,0 +1,129 @@
+/* Início Portifólio Section */
+#certificado {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+
+}
+
+#certificado .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+}
+
+#frase {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #201f25;
+}
+
+@media (max-width: 682px) {
+  #certificado .container {
+    grid-template-columns:  1fr;
+  }
+  #certificado p {
+    margin-bottom: 20px;
+  }
+  .info__certificado {
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .info__certificado div {
+    opacity: 1;
+  }
+}
+
+.info__certificado {
+  color: #fff;
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  transition: 0.4s;
+}
+
+.info__certificado:hover {
+  padding: 10px;
+}
+
+.info__certificado div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  opacity: 0;
+  transition: 0.4s;
+}
+
+.info__certificado:hover div {
+  opacity: 1;
+}
+
+.info__certificado img {
+  height: 20px;
+  margin-right: 3px;
+}
+
+.info__certificado p {
+  font-size: 14px;
+}
+
+.info__certificado a {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #fff;
+  letter-spacing: 2px;
+  position: relative;
+  padding: 5px;
+}
+
+.info__certificado a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -5px;
+  left: 5px;
+  background-color: #fff;
+  transition: 0.3s;
+}
+
+.info__certificado a:hover::after {
+  width: 90%;
+}
+.one {
+  background-image: url(../../../../assets/imgs/certificados/certificado-fatec.png);
+}
+.one div {
+  background-color: rgba(112, 17, 17, 0.8);
+}
+.two {
+  background-image: url(../../../../assets/imgs/certificados/certificado-rocketseat-gostack-11.png);
+}
+.two div {
+  background-color: rgba(17, 112, 80, 0.8);
+}
+.three {
+  background-image: url(../../../../assets/imgs/certificados/certificado-formacao-angular.png);
+}
+.three div {
+  background-color: rgba(66, 54, 71, 0.8);
+}
+.four {
+  background-image: url(../../../../assets/imgs/certificados/certificado-rocketseat-java.png);
+}
+.four div {
+  background-color: rgba(171, 137, 255, 0.609);
+}
+/* Fim Portifólio Section */
