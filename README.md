@@ -11,7 +11,8 @@
       <th>Nº</th>
       <th>Status</th>
       <th>Nome do Projeto</th>
-      <th>Projetos Desenvolvidos por mim.</th>
+      <th>Projetos Github</th>
+      <th>Confira o site</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -21,7 +22,12 @@
       <td>Projeto 01 - Dataverse Chat </td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/SAP012-dataverse-chat" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-090912?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-201F25?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td>
+        <a href="https://dataverse-chat.netlify.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-201F25?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -31,7 +37,12 @@
       <td>Projeto 02 - Dataverse indivídual</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/SAP012-dataverse" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-74BA9C?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-FD8891?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td>
+        <a href="https://dataverse-coffee.netlify.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-FD8891?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -41,7 +52,12 @@
       <td>Projeto 03 - Nlw Experts </td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/nlw-expert-notes" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-090912?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-201F25?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/elizabetefabri/nlw-expert-notes" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-201F25?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -51,7 +67,12 @@
       <td>Projeto 04 - Dataverse bestmovie em dupla </td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/dataverse-bestmovie" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-090912?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-FD8891?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td>
+        <a href="https://elizabetefabri.github.io/dataverse-bestmovie/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-FD8891?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -61,7 +82,12 @@
       <td>Projeto 05 - Text Analyzer</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/SAP012-text-analyzer" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-74BA9C?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-201F25?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://elizabetefabri.github.io/SAP012-text-analyzer/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-201F25?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -71,7 +97,12 @@
       <td>Projeto 06 - Trivia</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/trivia-laboratoria" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-090912?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-FD8891?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://trivia-laboratoria-seven.vercel.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-FD8891?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -81,7 +112,12 @@
       <td>Projeto 07 - Nlw Happy</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/03-nlw-happy" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-74BA9C?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-201F25?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td>
+        <a href="https://03-nlw-happy.netlify.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-201F25?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -91,7 +127,12 @@
       <td>Projeto 08 - Nlw Proffy</td>
       <td align="center">
         <a href="https://github.com/elizabetefabri/02-nlw-proffy" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-090912?style=for-the-badge" width="200px">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-FD8891?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nlw-proffy.vercel.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20site-FD8891?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
@@ -100,14 +141,18 @@
       <td align="center"><img width="30px" height="30px" align="center" alt="icon check" src="https://raw.githubusercontent.com/elizabetefabri/buzzfeed/main/favicon.ico"></td>
       <td>Projeto 09 - BuzzFeed</td>
       <td align="center">
-        <a href="https://github.com/elizabetefabri/buzzfeed/tree/main" target="_blank">
-           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-74BA9C?style=for-the-badge" width="200px">
+        <a href="https://github.com/elizabetefabri/buzzfeed" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-201F25?style=for-the-badge" width="200px">
+        </a>
+      </td>
+      <td>
+        <a href="https://buzzfeed-alpha.vercel.app/" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20SITE-201F25?style=for-the-badge" width="150px">
         </a>
       </td>
     </tr>
     </tbody>
   <tfoot>
-
   </tfoot>
 </table>
 
